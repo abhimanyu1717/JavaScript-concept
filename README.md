@@ -1,5 +1,5 @@
 1. closure
 
-  jgfkkjhjkfhkjh
+   jgfkkjhjkfhkjh
   
 2. call() , apply(), bind()
