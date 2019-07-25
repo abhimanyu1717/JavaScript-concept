@@ -1,2 +1,2 @@
 1. closure
-2. Call() , apply(), bind()
+2. call() , apply(), bind()
